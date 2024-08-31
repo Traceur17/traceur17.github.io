@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # jekyll-seo-tag 设置 › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Nihil       # 主标题
+title: Nihil # 主标题
 
 tagline: Nichts Hsu # 副标题
 
@@ -22,7 +22,7 @@ description: >- # 由 seo meta 和 atom feed 使用
 
 # 填入你的网站的协议和域名.
 # 例如，'https://username.github.io'，注意不要以 '/' 结尾。
-url: "https://traceur17.github.io.git"
+url: "https://traceur17.github.io"
 
 author: Nichts Hsu # 全名
 
@@ -98,7 +98,7 @@ mouse_click_effect: false
 # 媒体资源 CDN 端点。
 # 注意一旦被分配，CDN 网址会被加在
 # 所有以 '/' 开始的媒体资源（网站头像，帖子中的图像，音频和视频文件）路径上
-# 
+#
 # 例如，'https://cdn.com'
 cdn: ""
 
@@ -112,7 +112,7 @@ social_preview_image: # 字符串，本地或跨域资源
 # 设置显示右侧边栏的内容
 panel:
   # 设置显示在帖子中右侧边栏的内容
-  # 
+  #
   # 提示:
   #   全局开关为 false 时必定不显示对应块。
   #   全局开关为 true 时，可以在帖子的 md 文件头部使用形如:
